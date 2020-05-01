@@ -1,0 +1,4 @@
+*.mmdb
+*.md
+Dockerfile
+target/
